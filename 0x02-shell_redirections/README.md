@@ -1,1 +1,1 @@
-Display the content
+lines containing the pattern
