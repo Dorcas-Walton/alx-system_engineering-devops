@@ -1,1 +1,1 @@
-a script that displays
+the content
