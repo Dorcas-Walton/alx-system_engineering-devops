@@ -1,1 +1,1 @@
-Write a script that prints
+displays the third line of the file
