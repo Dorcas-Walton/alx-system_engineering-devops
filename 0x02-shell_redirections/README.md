@@ -1,1 +1,1 @@
-a script that displays all users
+a script that prints
