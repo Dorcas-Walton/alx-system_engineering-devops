@@ -1,1 +1,1 @@
-script that removes all letters
+a script
