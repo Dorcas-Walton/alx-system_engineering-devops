@@ -1,1 +1,1 @@
-lines of the file
+all characters
