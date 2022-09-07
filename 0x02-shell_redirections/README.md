@@ -1,1 +1,1 @@
-a script that displays
+a script that takes a list of words as input
