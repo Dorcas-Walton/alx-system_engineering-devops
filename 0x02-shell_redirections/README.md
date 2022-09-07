@@ -1,1 +1,1 @@
-a script that decodes acrostics
+a script that parses web servers logs
