@@ -1,1 +1,1 @@
-script that counts
+a script that displays
