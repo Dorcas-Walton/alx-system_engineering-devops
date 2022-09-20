@@ -1,1 +1,1 @@
-a script that creates
+a script that prints
