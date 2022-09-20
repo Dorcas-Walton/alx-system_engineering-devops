@@ -1,1 +1,1 @@
-a script that converts
+a script that encodes and decodes
